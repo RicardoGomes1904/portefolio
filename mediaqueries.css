@@ -21,7 +21,7 @@ nav#desktop-nav {
   display: flex; /* Organiza os links em linha */
   gap: 20px; /* Espaçamento entre os links */
   list-style: none; /* Remove os marcadores da lista */
-  margin: 0; /* Remove margens padrão */
+  margin: 55px; /* Remove margens padrão */
   padding: 0; /* Remove espaçamentos padrão */
 }
 
